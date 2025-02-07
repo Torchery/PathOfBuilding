@@ -184,12 +184,12 @@
 	<File name="Data/Skills/glove.lua" part="program" sha1="fd74aa0305325e3a20991380d5ce61b20b1394fb" />
 	<File name="Data/Skills/minion.lua" part="program" sha1="a9fbe8044c38104a741eb07166f2212dc75745ab" />
 	<File name="Data/Skills/other.lua" part="program" sha1="d45bcafbb1e485601bc1b37cab7d14f4e664f25f" />
-	<File name="Data/Skills/spectre.lua" part="program" sha1="67fa6d51144a4c0391386b67f733f9793c1b5ffd" />
+	<File name="Data/Skills/spectre.lua" part="program" sha1="8bb4a6a4429cca72c41a04b09009cd41c4c5a9b3" />
 	<File name="Data/Skills/sup_dex.lua" part="program" sha1="521c253fde9761c0647df3ef85b0d8906ffd70a9" />
 	<File name="Data/Skills/sup_int.lua" part="program" sha1="7631d31ea9367b718e17c01f2d5bd5b617480c1b" />
 	<File name="Data/Skills/sup_str.lua" part="program" sha1="4215407686501dd9b97fb43a8d584fb1fd760f73" />
 	<File name="Data/SkillStatMap.lua" part="program" sha1="cefd2a73316525b00dbf95322c2a7733394c4232" />
-	<File name="Data/Spectres.lua" part="program" sha1="08474e060cb98e0891c1ef7a21b936b720e9f46e" />
+	<File name="Data/Spectres.lua" part="program" sha1="4c7e1b517394acfd47d6162f0cf6be4afb531d68" />
 	<File name="Data/StatDescriptions/active_skill_gem_stat_descriptions.lua" part="program" sha1="13045ed7c7c68cc2c1abd4b31aa80391e1d37c2c" />
 	<File name="Data/StatDescriptions/aura_skill_stat_descriptions.lua" part="program" sha1="cf1f7c4db13fb272d74e678a053b6e3ba91dccba" />
 	<File name="Data/StatDescriptions/banner_aura_skill_stat_descriptions.lua" part="program" sha1="2995f8b8685edb6324e1ed1a734a8667008133d9" />
